@@ -1,5 +1,5 @@
 ---
-title: "Thrust FPV stunt dront"
+title: "Thrust FPV stunt drone"
 author: "aryan"
 description: "a visually stunning FPV Stunt drone, with a custom FC"
 created_at: "2025-06-23"
