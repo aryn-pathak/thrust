@@ -20,4 +20,13 @@ The drone should have the following qualities:
 
 I also need to somehow make it in 3 days to be eligible for the competition :heavysob:, but i'm still gonna make it good
 
-Today I'll make the flight controller PCB. I was confused between using STM32F4 chips (used most commonly in drones, great perfomance) and RP2040 (slower, but easier to setup). ChatGPT said STM32 chips are significantly harder to setup initially, but post talkuing to a few people on the slack, STM isn't too hard to setup, so I'll be using the [STM32F401CCU6](https://robu.in/product/stm32f401ccu6-stmicroelectronics-stm32f401ccu6-arm-mcu-dynamic-efficiency-line-stm32-family-stm32f4-series-microcontrollers-arm-cortex-m4/) with USB FS and STMDuino support.
+Today I'll start the flight controller PCB. I was confused between using STM32F4 chips (used most commonly in drones, great perfomance) and RP2040 (slower, but easier to setup). ChatGPT said STM32 chips are significantly harder to setup initially, but post talkuing to a few people on the slack, STM isn't too hard to setup, so I'll be using the [STM32F401CCU6](https://robu.in/product/stm32f401ccu6-stmicroelectronics-stm32f401ccu6-arm-mcu-dynamic-efficiency-line-stm32-family-stm32f4-series-microcontrollers-arm-cortex-m4/) with USB FS and STMDuino support.
+
+## DAY TWO
+Made most of the schematic today
+![Screenshot 2025-06-25 at 12 27 38 AM](https://github.com/user-attachments/assets/d93b4d7b-1e77-4170-934d-28e79e8750b9)
+This is mostly the low level stuff for the STM32 chip to work, and added ICM-42688-P. I'll be using an ESP32-CAM module for the camera and wireless connectivity. The camera is fully independent of the STM32, and a UART connection between ESP and STM32 is used for controls.
+
+I don't think I'll be able to submit for the design competition :sob:, but that gives me more time to work on a well designed, high perfomance drone with a custom FC.
+
+Tomorrow, I'll get started on BOM (battery, motors, ESCs, etc), and hopefully also finish the PCB!
