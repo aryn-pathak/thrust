@@ -30,3 +30,11 @@ This is mostly the low level stuff for the STM32 chip to work, and added ICM-426
 I don't think I'll be able to submit for the design competition :sob:, but that gives me more time to work on a well designed, high perfomance drone with a custom FC.
 
 Tomorrow, I'll get started on BOM (battery, motors, ESCs, etc), and hopefully also finish the PCB!
+
+## DAY THREE-FOUR
+Worked more on the schematic, and finally finished it!
+![Screenshot 2025-06-29 at 12 38 36 AM](https://github.com/user-attachments/assets/afa290a7-e2d9-4549-9d14-ea244fa5a3ea)
+
+It's not exactly neat, but I'll organise and label the blocks later (when i ship it).
+
+Also, a problem i realised when going to make the PCB-- I didn't label the capacitors' and resistors' capacitance and resistance respectively :skull:, so it'll take some more time.
