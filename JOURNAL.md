@@ -30,6 +30,7 @@ This is mostly the low level stuff for the STM32 chip to work, and added ICM-426
 I don't think I'll be able to submit for the design competition :sob:, but that gives me more time to work on a well designed, high perfomance drone with a custom FC.
 
 Tomorrow, I'll get started on BOM (battery, motors, ESCs, etc), and hopefully also finish the PCB!
+### Schematic: 1.5 hours
 
 ## DAY THREE-FOUR
 Worked more on the schematic, and finally finished it!
@@ -38,3 +39,17 @@ Worked more on the schematic, and finally finished it!
 It's not exactly neat, but I'll organise and label the blocks later (when i ship it).
 
 Also, a problem i realised when going to make the PCB-- I didn't label the capacitors' and resistors' capacitance and resistance respectively :skull:, so it'll take some more time.
+### Schematic: 1.5-2 hours
+
+## DAY FIVE
+So I'm almost done with PCB layout, it's quite compact for now but i need to consider things like noise and interference with RF and MCU, so that might take another day.
+
+PCB so far:
+
+![Screenshot 2025-07-09 at 9 41 33 PM](https://github.com/user-attachments/assets/e9d87e57-b28d-496c-a916-e4e8defed4df)
+
+Rounting seemed VERY overwhelming till now, but it was done like a breeze lol
+PCB: 1 hour
+
+
+
