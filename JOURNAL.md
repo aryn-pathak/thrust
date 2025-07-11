@@ -51,5 +51,15 @@ PCB so far:
 Rounting seemed VERY overwhelming till now, but it was done like a breeze lol
 PCB: 1 hour
 
+## DAY SIX
+Okay, PCB is almost fully finished, just need to route the RF module and GND plane. (The entire PCB fits under 4.5cm?!)
+
+<img width="1103" height="709" alt="Screenshot 2025-07-11 at 10 52 43 PM" src="https://github.com/user-attachments/assets/e5aaeeb7-2747-4b82-9d32-484916a58f40" />
+
+This looks SO complicated but im really proud of myself for building this and not picking up a good expensive FC from a website :D
+
+I wanted to work more but I also really need to start preparing for an upcoming MUN in a week
+
+### PCB: 1.5 hours
 
 
