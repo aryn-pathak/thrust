@@ -5,6 +5,8 @@ description: "a visually stunning FPV Stunt drone, with a custom FC"
 created_at: "2025-06-23"
 ---
 
+## TOTAL HOURS: 24
+
 ## DAY ONE
 
 The drone should have the following qualities:
