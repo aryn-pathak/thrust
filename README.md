@@ -1,6 +1,6 @@
 # THRUST Freestyle drone and FC
 
-## THRUST is an open source, lightweight, entry level FPV freestyle drone, powered by the custom THRUST FC made from scratch, with a fully 3D printed frame.
+## THRUST is an open source, sleek, lightweight, entry level FPV freestyle drone, powered by the custom THRUST FC made from scratch.
 
 ### THE THRUST MK1:
 
