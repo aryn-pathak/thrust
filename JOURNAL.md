@@ -62,4 +62,23 @@ I wanted to work more but I also really need to start preparing for an upcoming 
 
 ### PCB: 1.5 hours
 
+## DAY SEVEN
+I got to work after a looong time because of exams, and then an MUN i had to prepare for, so I will be locking in to make this now. Completed the PCB :D, however I need to face my biggest fear now (DRC :sob:)
 
+### PCB: 1 hour
+
+## DAY EIGHT
+
+Today I started off with CAD, did some research and an unfortunate amount of time trying to understand mathematics of how a freestyle drone should be made, mostly looking at torque figure calculations. I was originally thinking of making a neat, aesthetic square-with-4-circles design. But after some research and looking at other designs, freestyle drones were almost exlusively of a shape called "streched X". This has something to do with moment of inertia and torque required to turn it. The pitch axis should have more t than the roll axis for a good, smooth, "gliding" like feel. The arms of the drone create 'r', which is the perpendicular distance of mass from the center, and t is directly proportional to it. It shouldnt be too less (for stability), but not too long (to not increase torque too much).
+
+I worked on several designs and arm shapes and none of them actually looked good/practical. I got very tired of constantly reiterating, drawing, deleting, extruding, tracing, moving, etc so I'll do it tomorrow.
+
+### CAD, maths: 5-5.5 Hours
+
+## DAY EIGHT
+A good decision I made was watching a few build videos to understand how frames are made typically, which gave me a surprisingly good amount of understanding. Also found some components (cameras, ESC, VTX, etc). In the end, I settled on an "H-X Hybrid frame" (?) which I pretty much accidentally made. It co-incidentally looks similar to a deadcat frame too. A lot of CAD done, so I pretty much finalized it. Antenna mount, camera mount, screw holes, top, everything. I think it looks REALLY nice and unique. I plan on modifying the frame over the years as I get more knowledge and feel for freestyling drones; this is just MK1.
+
+### CAD, shopping: 6 hours
+
+## DAY NINE
+The day I dreaded. DRC errors in such a complex PCB. Thankfully there weren't a LOT of hard-to-fix errors, but mostly about clearances and tracks not being connected to the STM32 (different
