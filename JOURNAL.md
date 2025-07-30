@@ -77,6 +77,8 @@ I worked on several designs and arm shapes and none of them actually looked good
 ## DAY EIGHT
 A good decision I made was watching a few build videos to understand how frames are made typically, which gave me a surprisingly good amount of understanding. Also found some components (cameras, ESC, VTX, etc). In the end, I settled on an "H-X Hybrid frame" (?) which I pretty much accidentally made. It co-incidentally looks similar to a deadcat frame too. A lot of CAD done, so I pretty much finalized it. Antenna mount, camera mount, screw holes, top, everything. I think it looks REALLY nice and unique. I plan on modifying the frame over the years as I get more knowledge and feel for freestyling drones; this is just MK1.
 
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/82711108d712a5bb69165b9739588d56d600b4ee_img_0416.jpg)
+
 ### CAD, shopping: 6 hours
 
 ## DAY NINE
@@ -102,4 +104,5 @@ So the drone is pretty much done, just have to submit it now-- or so I thought. 
 ## DAY ELEVEN
 Okay, so somehow I got the entire thing under the budget, using super cheap generic SimonK ESCs instead of the 4-in-1 ESC costing ~3k, replacing the holybro atlatl VTX with a cheaper VTX as well, and using a cheaper dipole antenna (since lollipop was overkill), and a significantly cheaper HC-12 RF module instead of the RFM69HCW. So haven't cut any functionality, maybe reduced ease of assembly and less beautiful, worth ~7k easily tho!
 
+Submitting now! Massive thanks to hack club and the organisers of this YSWS-- its absolutely awesome!
 ### Documentation, BOM: 2.5-3 hours
