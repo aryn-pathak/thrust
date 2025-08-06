@@ -15,6 +15,6 @@
 
 **Built to beat inaccesible, expensive, and capitalist FCs, at almost 1/6th the price of an average commercial FC, with the same perfomance, based on STM32F401CCU6, package of 40x31mm.**
 
-<img width="729" height="564" alt="Screenshot 2025-07-30 at 11 03 47 PM" src="https://github.com/user-attachments/assets/a7982d4c-d1c8-41e5-beb2-82aeff6d60a0" />
+<img width="1222" height="935" alt="Screenshot 2025-08-06 at 5 40 20 PM" src="https://github.com/user-attachments/assets/cab9d194-cae8-465c-b53d-392d6156063f" />
 <img width="790" height="656" alt="Screenshot 2025-07-30 at 11 06 15 PM" src="https://github.com/user-attachments/assets/55bff378-3f75-40a7-ac4b-8742e6d9d72a" />
 <img width="985" height="659" alt="Screenshot 2025-07-30 at 11 09 15 PM" src="https://github.com/user-attachments/assets/ad6cdb7a-bfa7-4dc7-8c93-15333164ca3a" />
