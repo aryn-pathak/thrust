@@ -11,7 +11,8 @@
 | [USB Breakout](https://robu.in/product/usb-female-to-2-54mm-breakout-board-with-direct-4p-adapter-board/)                                                                           | ₹13         | \$0.16      |
 | Resistors & Capacitors                                                                                                                                                              | ₹40         | \$0.48      |
 | [Inductor](https://robu.in/product/blm18kg101tn1d-murata-ferrite-beads-multi-layer-100ohm-25-100mhz-3a-0-03ohm-dcr-0603-t-r/#tab-specification)                                     | ₹3          | \$0.04      |
-| **Total (FC Parts)**                                                                                                                                                                | **₹1085**   | **\$13.04** |
+| PCB from JLCPCB (UPS Worldwide Express Saver)                                                                                                                                       | ₹1398       | \$16        |
+| **Total (FC Parts)**                                                                                                                                                                | **₹2483**   | **\$39.04** |
 
 # DRONE PARTS
 
@@ -31,3 +32,5 @@
 | [VRX (OTG Receiver)](https://robu.in/product/5-8g-uvc-otg-android-phone-receiver/)                              | ₹2429       | \$29.27      |
 | [SMA to UFL](https://robu.in/product/lwc-ca-sma-jack-bh-st-ufl-1-13mm-rf-cable-assemblies-30cm/)                | ₹79         | \$0.95       |
 | **Total (Drone Components)**                                                                                    | **₹13,849** | **\$166.39** |
+
+**SUBTOTAL DRONE+FC | 205.43**
